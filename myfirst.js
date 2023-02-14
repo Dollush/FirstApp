@@ -7,7 +7,7 @@ http.createServer(function (req, res) {
     res.write('<br/><br/>');
     res.write('Hello World!');
     res.write('<br/><br/>');
-    res.write('<img src="/img/ais_images.gif" alt="Image AIS"/>');
+    res.write('<img src="/img/Image43.png" alt="Image AIS"/>');
     res.write('<br/><br/>');
     res.write('End World!');
     res.end();
